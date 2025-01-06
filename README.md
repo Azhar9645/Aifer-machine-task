@@ -1,6 +1,14 @@
-# aifer
+# Wallpaper App
 
 A new Flutter project.
+
+## App Screenshot
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <img src="./assets/Screenshot_1736188869.png" alt="App Screenshot 1" width="300" />
+  <img src="./assets/Screenshot_1736188890.png" alt="App Screenshot 1" width="300" />
+  <img src="./assets/Screenshot_1736188998.png" alt="App Screenshot 2" width="300" />
+</div>
 
 ## Getting Started
 
