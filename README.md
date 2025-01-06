@@ -7,7 +7,6 @@ A new Flutter project.
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <img src="./assets/Screenshot_1736188869.png" alt="App Screenshot 1" width="250" />
   <img src="./assets/Screenshot_1736188890.png" alt="App Screenshot 2" width="250" />
-  <img src="./assets/Screenshot_1736188998.png" alt="App Screenshot 3" width="250" />
 </div>
 
 ## Getting Started
