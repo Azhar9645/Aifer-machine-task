@@ -134,7 +134,7 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   void dispose() {
     _scrollController.dispose();
-    FlutterDownloader.cancelAll(); // Cancel all ongoing downloads
+    FlutterDownloader.cancelAll();
     super.dispose();
   }
 }
