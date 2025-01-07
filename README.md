@@ -11,7 +11,7 @@ A Flutter wallpaper app that lets you browse and download high-quality images.
 
 </div>
 ## Download APK
-[Download the latest APK](apk/app-release.apk)
+[Download the latest APK](https://github.com/Azhar9645/Aifer-machine-task/blob/main/apk/app-release.apk)
 
 ## Getting Started
 
